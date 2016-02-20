@@ -33,8 +33,6 @@ public class RegisterActivity extends AppCompatActivity implements View.OnClickL
         strPwd=Password.getText().toString();
         strConPwd=ConfirmPassword.getText().toString();
 
-
-
         etRegister.setOnClickListener(this);
 
     }
