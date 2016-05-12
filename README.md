@@ -2,6 +2,11 @@
 
 Saver 'n Saviour is an android application which can manage everyday to do lists with time and location based reminders. After logging in to the application, users can add, edit, delete items in their to do lists and create reminders on them. Whenever the user reaches nearby a grocery store, they will be reminded of the items in their to do list. 
 
+A Reminder system is important in today’s busy lifestyle. There comes a time where we wish to have someone to remind us of our tasks so that we can complete them on time. Today’s innovation in technology is minimising of human with applications, in many cases. 
+
+It’s also a reminder system that keeps you informed! Many a times, we pass by a grocery store or gas station unaware ,when we still was in need of grocery or gas, realizing only to go back to the store at a later time. It's a waste of time and resources. We felt the need for an application which can help us manage our day-to-day works, remind us of appointments, household needs based on time and location. Our reminder application, Saver ‘n Savior, is a hybrid application which lets the user create tasks,mark them complete once finished ,create reminders and gives notifications in terms of messages and voice mails. 
+
+With our application, users can create tasks ,mark them complete once finished, can set up a geo-fence of frequently visited places, and get push notification while crossing the location,set up voicemails to be reminded of appointments. 
 
 Project screens:
 
