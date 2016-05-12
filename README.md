@@ -21,3 +21,12 @@ Project screens:
 ![5](https://cloud.githubusercontent.com/assets/16812117/15203302/ca02312c-17c7-11e6-8a0f-b893af48859d.png)
 
 ![6](https://cloud.githubusercontent.com/assets/16812117/15203303/ca02a9f4-17c7-11e6-83f0-bfd814beac53.png)
+
+
+# References:
+[1]. http://ionicframework.com/ <br/>
+[2]. http://twillio.com/<br/>
+[3]. http://leafletjs.com/<br/>
+[4]. https://developer.walmartlabs.com/ <br/>
+[5]. https://www.firebase.com/<br/>
+
